@@ -1,0 +1,8 @@
+#TexStudio Files
+*.aux
+*.bcf
+*.out
+*.run.xml
+*.synctex.gz
+*.log
+pdfa.xmpi
